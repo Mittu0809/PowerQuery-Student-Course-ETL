@@ -9,10 +9,10 @@ Project Overview :
 
 The raw dataset is in Excel format with the following columns:
 
-Name
-Email
-Course
-Registration Date
+Name,
+Email,
+Course,
+Registration Date,
 Fee Paid 
 
 
