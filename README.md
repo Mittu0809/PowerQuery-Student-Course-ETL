@@ -22,7 +22,8 @@ Steps :
 1. Connect to the Data
 Source File: Load the raw Excel file and open it in Power Query Editor.
 
-2. Data Cleaning Steps
+2. Data Cleaning Steps :
+   
 After examining the data, we perform the following cleaning tasks:
 
 Step 2.1: Remove Unnecessary Columns 
